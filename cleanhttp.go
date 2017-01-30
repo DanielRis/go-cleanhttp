@@ -1,6 +1,7 @@
 package cleanhttp
 
 import (
+	"crypto/tls"
 	"net"
 	"net/http"
 	"time"
